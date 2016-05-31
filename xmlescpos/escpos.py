@@ -715,8 +715,8 @@ class Escpos:
 
         except Exception as e:
             errmsg = str(e)+'\n'+'-'*48+'\n'+traceback.format_exc() + '-'*48+'\n'
-            self.text(errmsg)
-            self.cut()
+#            self.text(errmsg)
+#            self.cut()
 
             raise e
 
