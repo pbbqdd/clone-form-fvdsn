@@ -1,4 +1,4 @@
-
+fit my xprinter xp58iih
 # XML-ESC/POS
 
 XML-ESC/POS is a simple python library that allows you to
